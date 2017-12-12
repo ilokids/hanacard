@@ -34,7 +34,7 @@
 .ban_right {width: 600px; height: 320px; position: absolute; right: 0;top: 50px;}
 
 /* br_tit */
-.ban_right .br_tit {background: #fff; height: 180px; padding: 48px 190px 42px 80px;}
+.ban_right .br_tit {background: #fff; height: 180px; padding: 48px 0 42px 70px;}
 .ban_right .br_tit h2 {font-size: 36px; font-weight: 700; line-height: 44px; letter-spacing: -1px;}
 .ban_right .br_tit p {position: relative; padding-top: 50px; font-size: 14px;}
 .ban_right .br_tit p:before {content: ''; width: 30px; height: 2px; background: #00907f; position: absolute; left: 0; top: 25px;}
